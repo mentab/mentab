@@ -10,7 +10,6 @@
 
 ### :man_technologist: About Me :
 Welcome to my GitHub profile! I'm a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> specializing in PHP/JS development. 
-- 💻 Currently, I'm searching a new job as a web developer.
 
 ---
 
@@ -33,10 +32,3 @@ Welcome to my GitHub profile! I'm a Web Developer <img src="https://media.giphy.
  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb"  alt="mongodb" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
 </div>
-
----
-
-### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mentab)](https://git.io/streak-stats)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mentab)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mentab)](https://github.com/anuraghazra/github-readme-stats)
